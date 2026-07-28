@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Smart Task Manager</title>
+
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <main class="todo-container">
+
+        <header>
+            <h1>Smart Task Manager</h1>
+            <p>Organise your daily tasks easily.</p>
+        </header>
+
+        <section class="task-input-section">
+            <input
+                type="text"
+                id="taskInput"
+                placeholder="Enter a new task"
+            >
+
+            <button id="addTaskButton">
+                Add Task
+            </button>
+        </section>
+
+        <section class="task-information">
+            <p>
+                Total Tasks:
+                <span id="taskCount">0</span>
+            </p>
+        </section>
+
+        <section class="filters">
+            <button data-filter="all">All</button>
+            <button data-filter="active">Active</button>
+            <button data-filter="completed">Completed</button>
+        </section>
+
+        <ul id="taskList"></ul>
+
+    </main>
+
+    <script src="scripts/app.js"></script>
+</body>
+</html>
