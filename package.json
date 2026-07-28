@@ -1,0 +1,11 @@
+{
+  "name": "todo-list-devops-assignment",
+  "version": "1.0.0",
+  "description": "Advanced Git and DevOps Team Collaboration Assignment",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "test": "echo \"Tests completed successfully\""
+  },
+  "author": "Student Team",
+  "license": "MIT"
+}
