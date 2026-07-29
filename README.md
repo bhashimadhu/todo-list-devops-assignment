@@ -26,7 +26,7 @@ https://bhashimadhu.github.io/todo-list-devops-assignment/
 |---|---|---|---|
 | Student 1 | Upekshika Madhubhashini | ITBIN-2414-0019| DevOps / Release Manager |
 | Student 2 | Kavindi Dilsara | ITBIN-2414-0022 | JavaScript Developer |
-| Student 3 | Udeesha Akshari | ITBNM-2313-0123 | Frontend Developer |
+| Student 3 | Udeesha Akshari | ITBNM-2313-0069 | Frontend Developer |
 
 ---
 
