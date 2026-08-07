@@ -73,7 +73,7 @@ todo-list-devops-assignment/
 │
 ├── .github/
 │   └── workflows/
-│       ├── ci.yml          ← runs tests on push & PRs
+│       |── ci.yml          ← runs tests on push & PRs
 │       └── deploy.yml      ← deploys to GitHub Pages
 │
 ├── src/
@@ -401,4 +401,4 @@ The app itself is nothing groundbreaking — it's a to-do list, after all — bu
 
 ---
 
-*Built with ❤️ by the team — 2025*
+Built with ❤️ using HTML, CSS & JavaScript
