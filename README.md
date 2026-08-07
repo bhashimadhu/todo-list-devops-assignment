@@ -1,6 +1,6 @@
 # Smart Daily Task Manager
 
-Simple to-do list app we made for our DevOps group assignment. Built using just HTML, CSS and JavaScript — nothing complex.
+Simple to-do list app we made for our DevOps group assignment. Built using just HTML, CSS and JavaScript.
 
 ## About the Project
 
@@ -80,15 +80,15 @@ Every branch went through PR > review > approval before merging. We made sure no
 
 ## What Each Person Did
 
-### Student 1 (DevOps / Release Manager)
+### Upekshika (DevOps / Release Manager)
 
 She created the GitHub repository and added the other two members as collaborators. She set up the main and develop branches, wrote the CI workflow (`ci.yml`) that runs tests automatically, and also the deploy workflow (`deploy.yml`) for GitHub Pages. She reviewed and approved the PRs from the other members, managed the release process, and also handled the Netlify setup — connecting the repo, configuring the publish directory, making it public, all that. After deploying she tested both platforms on desktop and on her phone to make sure everything looked fine.
 
-### Student 2 (JavaScript Developer)
+### Kavindi (JavaScript Developer)
 
 She wrote all the core JavaScript logic. This includes adding tasks, marking them complete, the undo feature, deleting tasks, the filtering system (all/active/completed), the task counter that shows stats at the top, and the local storage integration so data persists after refresh. She also added Enter key support so you dont have to click the button every time. For the merge conflict demo part of the assignment she changed the heading in index.html on her branch.
 
-### Student 3 (Frontend Developer)
+### Akshari (Frontend Developer)
 
 She built the entire HTML structure and designed everything with CSS. The layout, the input section, filter buttons, task list area, the stat cards at the top — all of that was her work. She also made it responsive so it looks proper on phones and tablets, not just desktop. She tested the UI on different screen sizes and orientations. For the merge conflict part she also changed the same heading on her branch, and then she was the one who resolved the conflict.
 
