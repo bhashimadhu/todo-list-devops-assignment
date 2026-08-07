@@ -96,7 +96,7 @@ She built the entire HTML structure and designed everything with CSS. The layout
 
 This was something we had to do intentionally for the assignment — create a merge conflict and resolve it.
 
-Student 2 changed the `<h1>` heading in `src/index.html` to "Daily Task Manager" on her branch. Student 3 changed the same heading to "Smart To-Do Manager" on her branch. When we tried to merge both into develop, Git flagged it as a conflict since both of them edited the same line.
+Kavindi changed the `<h1>` heading in `src/index.html` to "Daily Task Manager" on her branch. Akshari changed the same heading to "Smart To-Do Manager" on her branch. When we tried to merge both into develop, Git flagged it as a conflict since both of them edited the same line.
 
 We discussed it and decided to combine both versions into "Smart Daily Task Manager" which actually sounded better anyway. Committed the resolution and moved on.
 
